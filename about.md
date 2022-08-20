@@ -1,4 +1,7 @@
-# About
+---
+layout: page
+title: 关于
+permalink: /about/
+---
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
-
+这是一个关于页面，请编辑about.md以介绍你的博客。
