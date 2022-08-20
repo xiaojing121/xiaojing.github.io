@@ -1,4 +1,4 @@
-# Welcome to xiaojing!
+# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog.
 #
@@ -23,10 +23,10 @@ google_analytics:
 # Everything below here can be ignored, unless you want to change the theme entirely
 theme: minima
 plugins:
-  - xiaojing-feed
-  - xiaojing-gist
-  - xiaojing-octicons
-  - xiaojing-github-metadata
+  - Jekyll-feed
+  - Jekyll-gist
+  - Jekyll-octicons
+  - Jekyll-github-metadata
 
 titles_from_headings:
   enabled:     true
